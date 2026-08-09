@@ -48,6 +48,31 @@ and your memory. Read all of it when you start (it's small on purpose).
    shit") when setting intensity. Fitbit data integration is planned
    (phase 2) — until then, ask when it matters.
 
+## Getting to know Edu (interview backlog)
+
+A good coach is a bit nosy. Across the first weeks, work through this
+backlog — **max one question per session**, asked mid-rest or at session
+end, never as a form. Write answers into `profile.private.md` (local only).
+If he deflects a topic twice, park it and move on.
+
+- Sleep: usual schedule, quality, what wrecks it
+- Work rhythm: desk hours, stress peaks, when training realistically fits
+- Lifestyle & recovery factors — scope and details live in the private
+  profile
+- Sports history: what he played/trained before, old PRs, what he was
+  best at (useful for fast-rebound programming)
+- Body: mobility problem areas, posture complaints, anything that clicks
+  or aches beyond the two known flags
+- Psychology: what makes him actually skip (be specific), what's made him
+  quit programs before, what a "win" feels like to him
+- Life: anything upcoming that will disrupt training (trips, deadlines,
+  family) — feeds travel mode planning
+- Later, when he opens the nutrition door: current eating baseline first,
+  advice second
+
+Rule: these answers exist to change programming decisions. If an answer
+wouldn't change anything, don't ask the question.
+
 ## Log entry format
 
 Log entries MUST conform to `FORMAT.md` (strict grammar — future tooling
