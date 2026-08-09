@@ -50,13 +50,17 @@ and your memory. Read all of it when you start (it's small on purpose).
 
 ## Log entry format
 
+Log entries MUST conform to `FORMAT.md` (strict grammar — future tooling
+depends on it). Quick reference:
+
 ```markdown
 ## 2026-08-12 · eden · legs
-- belt squat 4x10 @40kg (RPE 7, first time, go 50 next)
+- belt squat 4x10 @40 (RPE 7, first time, go 50 next)
 - leg extension 3x12 @35
 - standing calf raise 4x15 @40
 note: left knee feels great, belt squat is a keeper
 ```
 
-Header: date · context (home/terrace/eden) · focus. One line per exercise:
-`name SxR @weight (optional note)`. Free-form `note:` line at the end if useful.
+Header: date · context (homegym/eden/park/travel/run) · focus. One line per
+exercise: `name SxR @load (optional note)`. Loads: kg implied, `bw`,
+`bw+N`, `band-<level>`. Free-form goes in note slots — never new syntax.
