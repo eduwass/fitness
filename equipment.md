@@ -1,61 +1,62 @@
-# Equipamiento disponible
+# Available equipment
 
-## 🏠 Casa (Andorra) — home gym compacto
+## 🏠 Home (Andorra) — compact home gym
 
-Todo plegable/desmontable. Se entrena dentro o en terraza según clima.
+Everything folds or comes apart. Training happens indoors or on the terrace,
+weather permitting.
 
-- **Mancuernas ajustables NÜOBELL S 240** (par, 2–40 kg por mancuerna, saltos
-  finos). ⚠️ No dejar caer ni usar en balísticos — mecanismo selector frágil.
-- **Torre plegable JOROTO JU30** — dominadas (multialtura), fondos, remo
-  invertido, elevaciones de rodillas. Se pliega plana (~110×60×20 cm).
-  Tubo 50×50 mm; admite J-hooks para rack de barra (pendiente medir agujero).
-- **Banco PASYOU plegable** — plano / inclinado / declinado / 90°, 400 kg cap.
-- **Bandas de resistencia**: FitBeast pull-up band, kit barra DASKING
-  (barra desmontable 2/3 secciones para bandas), asas de madera J Bryant,
-  asas de agarre neutro Cpolebev (llegan sept 2026), enlaces rápidos de acero.
-- **Tabla de equilibrio StrongTek** (madera).
-- **Esterilla**: pendiente compra (HAPBEAR 213×152×8 mm recomendada).
-- Camilla de taller con ruedas (Relaxdays) — apta como carrito para mover
-  las Nüobell a terraza.
-- Arcón exterior Keter 113L en terraza — almacenaje de accesorios no críticos.
+- **NÜOBELL S 240 adjustable dumbbells** (pair, 2–40 kg each, fine increments).
+  ⚠️ Never drop, never use for ballistics — fragile selector mechanism.
+- **JOROTO JU30 folding tower** — pull-ups (multi-height), dips, inverted
+  rows, knee raises. Folds completely flat (~110×60×20 cm). 50×50 mm tubing;
+  can take J-hooks for barbell racking (hole diameter TBD).
+- **PASYOU folding bench** — flat / incline / decline / 90°, 400 kg capacity.
+- **Resistance bands**: FitBeast pull-up band, DASKING band-bar kit
+  (detachable 2/3-section bar for bands), J Bryant wooden handles,
+  Cpolebev neutral-grip handles (arriving Sep 2026), steel quick links.
+- **StrongTek balance board** (wood).
+- **Floor mat**: pending purchase (HAPBEAR 213×152×8 mm recommended).
+- Wheeled mechanic's stool (Relaxdays) — doubles as a dolly to roll the
+  Nüobells to the terrace.
+- Keter 113L outdoor box on the terrace — storage for non-critical accessories.
 
-### Pendiente de compra (decidir tras un mes de rutina)
-- Adaptadores Dualbell (mancuerna→disco de barra) + barra ALLINLIFE 220 cm
-  Ø25 mm desmontable + J-hooks para la torre → daría barbell en casa (máx
-  80 kg). Email enviado a Dualbell para confirmar compatibilidad Nüobell S 240.
-- Cinturón de lastre para dominadas/fondos.
+### Pending purchases (decide after a month of real routine)
+- Dualbell adapters (dumbbell→barbell plate) + ALLINLIFE 220 cm Ø25 mm
+  detachable bar + J-hooks for the tower → would enable home barbell work
+  (80 kg max). Email sent to Dualbell to confirm Nüobell S 240 compatibility.
+- Dip belt for weighted pull-ups/dips.
 
-## 🏢 Eden Gimnàs (Andorra) — gym comercial
+## 🏢 Eden Gimnàs (Andorra) — commercial gym
 
-Equipamiento Titanium Strength + ATX, todo nuevo (catalogado ago 2026).
+Titanium Strength + ATX equipment, all new (catalogued Aug 2026).
 
-### Pierna (zona fuerte del gym)
-- Hack squat 45° / prensa invertida combo (discos)
-- Sentadilla pendular (péndulo)
-- Belt squat de palanca (discos)
-- Máquina de hip thrust (discos)
-- Leg extension (selectorizada)
-- Femoral tumbado (selectorizada) + femoral sentado (selectorizada)
-- Abductores/aductores combinada (selectorizada)
-- Gemelos de pie ATX (palanca, discos)
-- Tibial anterior ATX (discos)
+### Legs (the gym's strong suit)
+- 45° hack squat / reverse leg press combo (plate loaded)
+- Pendulum squat
+- Lever belt squat (plate loaded)
+- Hip thrust machine (plate loaded)
+- Leg extension (selectorized)
+- Lying leg curl (selectorized) + seated leg curl (selectorized)
+- Hip abduction/adduction combo (selectorized)
+- ATX standing calf raise (lever, plate loaded)
+- ATX tibia trainer (plate loaded)
 
-### Peso libre
-- Half rack con J-hooks, barra olímpica y dominadas multiagarre
-- 2 estaciones press banca olímpico (plano + inclinado)
-- Banco FID ajustable + bancos auxiliares
-- Rack de mancuernas uretano 2,5–40 kg (saltos de 2,5)
-- Discos bumper, banco romano 45°, balones medicinales, bosu
-- Máquina Smith
+### Free weights
+- Half rack with J-hooks, olympic bar and multi-grip pull-up bar
+- 2 olympic bench press stations (flat + incline)
+- Adjustable FID bench + auxiliary benches
+- Urethane dumbbell rack 2.5–40 kg (2.5 kg jumps)
+- Bumper plates, 45° back extension, medicine balls, bosu
+- Smith machine
 
-### Máquinas de torso
-- Pec deck + deltoides posterior (dual, selectorizada)
-- Doble torre de poleas: jalón al pecho, remo bajo, polea ajustable
-  + pared de accesorios (maneral V, cuerdas, barras)
-- Remo iso-lateral con apoyo de pecho (palanca, discos)
-- Remo bajo / encogimientos iso-lateral de pie (palanca, discos)
-- Torre dominadas/fondos/captain's chair
+### Upper-body machines
+- Pec deck + rear delt fly (dual, selectorized)
+- Dual cable tower: lat pulldown, seated low row, adjustable pulley
+  + accessory wall (V-handle, ropes, bars)
+- Chest-supported iso-lateral row (lever, plate loaded)
+- Standing iso-lateral low row / shrug (lever, plate loaded)
+- Pull-up/dip/captain's chair tower
 
 ### Cardio / conditioning
-- 2 cintas, elíptica, bici indoor, bici estática
-- Trineo (sled), battle rope, pista de sprint marcada
+- 2 treadmills, elliptical, indoor cycle, exercise bike
+- Sled, battle rope, marked sprint track

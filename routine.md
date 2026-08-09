@@ -1,8 +1,8 @@
-# Rutina vigente
+# Current routine
 
-_Sin programa aún. El agente la generará cuando `profile.md` esté relleno._
+_No program yet. The agent will generate one once the profile is filled in._
 
-Principios acordados:
-- Pierna pesada y trabajo de barra → Eden (péndulo/belt squat/hack + rack).
-- Empuje/tracción con mancuernas, dominadas, fondos, bandas → casa/terraza.
-- Cualquier día debe tener versión "plan B en casa" para eliminar fricción.
+Agreed principles:
+- Heavy legs and barbell work → Eden (pendulum/belt squat/hack + rack).
+- Dumbbell push/pull, pull-ups, dips, bands → home/terrace.
+- Every training day must have a "plan B at home" version to kill friction.
