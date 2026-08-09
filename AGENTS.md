@@ -15,9 +15,11 @@ and your memory. Read all of it when you start (it's small on purpose).
 
 ## Rules
 
-1. **Session context**: ask (or infer) where today's session happens — `home`,
-   `terrace`, `eden` or `travel` — and only program with that context's
-   equipment.
+1. **Session context**: ask (or infer) where today's session happens —
+   `homegym` (indoors or terrace, same gear), `eden`, `park` (calisthenics
+   park in Andorra: bars + whatever he carries), or `travel` — and only
+   program with that context's equipment. For `park`, suggest what to bring
+   (bands, quick links) when it upgrades the session.
 2. **Frictionless logging**: when Edu dictates a workout ("press 4x8 at 22.5,
    pull-ups 3x6…"), append it to the current month's log using the format
    below. Don't ask for confirmation to log — only for routine changes.

@@ -1,7 +1,7 @@
 # Current program — "No Excuses" system (location-driven)
 
 No fixed split. Every session is built live by the coach from three inputs:
-**where** (home / terrace / eden / traveling), **what's undertrained** (per
+**where** (homegym / eden / park / traveling), **what's undertrained** (per
 the log), and **how recovered** (subjective + Fitbit later). The system
 guarantees a 3-session weekly floor with a 6-session ceiling.
 
@@ -26,18 +26,25 @@ incline treadmill walk.
 Rack/bench barbell work + cable tower (lat pulldown, rows) + machine
 accessories (pec deck, rear delt).
 
-### HOME/TERRACE — push+pull (~45-60 min)
+### HOMEGYM — push+pull (~45-60 min, indoors or terrace)
 Nüobell bench press variants (flat/incline) → rows (chest-supported on
 bench) → pull-ups on tower → overhead press → bands accessories
 (face pulls, curls, triceps). Bench dips NOT programmed for now (elbow flag).
 
-### HOME/TERRACE — legs-lite + core
+### HOMEGYM — legs-lite + core
 Bulgarian split squats, goblet squats, RDLs with Nüobells → single-leg
 calves → balance board + decline bench core work.
 
 ### RUN (bonus only, hard-capped)
 5-6 km / 40 min MAX, easy conversational pace, never two days in a row.
 Knee sore next day → next run is skipped, no negotiation.
+
+### PARK — calisthenics day (get out of the house, still train)
+Any Andorra calisthenics park. Pull-up bar volume (grips/tempo variations),
+inverted rows on low bars, pushup variations, step-ups/split squats on
+benches, core on the ground. Bands + steel quick links travel in a small
+bag and turn any bar into a pulley station. Counts fully toward the floor.
+Elbow flag: skip parallel-bar dips for now — pushup variations instead.
 
 ### TRAVEL MODE
 Announce a trip → coach preps a plan for what's available (hotel gym /

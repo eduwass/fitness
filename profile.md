@@ -8,7 +8,7 @@
   house move; solid 3-4 days/week base before that).
 - **System**: location-driven, no fixed split — 3-session weekly floor,
   6-session ceiling. The coach builds each session from wherever I am:
-  home, terrace, Eden, or a hotel room. No-excuses design.
+  home gym, Eden, a calisthenics park, or a hotel room. No-excuses design.
 - **Cardio**: short capped easy runs in the Andorra mountains (caps are law,
   see routine) — plus whatever conditioning doesn't annoy the knees.
 - **Likes**: belt squat, training outdoors, zero-friction setups.
