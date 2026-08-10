@@ -40,8 +40,11 @@ for (const f of staged.filter(
       fail(`${where} bad header (see FORMAT.md): ${line}`);
     else if (line.startsWith("- ") && !EXERCISE.test(line))
       fail(`${where} bad exercise line (name SxR @load): ${line}`);
-    else if (line.startsWith("note:") && !NOTE.test(line))
-      fail(`${where} bad note line: ${line}`);
+    else if (line.startsWith("note:")) {
+      if (!NOTE.test(line)) fail(`${where} bad note line: ${line}`);
+      if (i > 0 && lines[i - 1].trim() !== "")
+        fail(`${where} note needs a blank line above it (markdown merges it into the last bullet otherwise)`);
+    }
   });
 }
 

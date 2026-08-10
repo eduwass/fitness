@@ -8,7 +8,9 @@ charts, exports) without adopting a heavier standard.
 ## Grammar
 
 ```
-entry       = header , { exercise-line } , [ note-line ] ;
+entry       = header , { exercise-line } , [ blank-line , note-line ] ;
+              (* blank line before note is REQUIRED — without it markdown
+                 renders the note as part of the last list item *)
 header      = "## " date " · " context " · " focus [ " · " timerange ] ;
 timerange   = HH:MM "–" HH:MM ;      (* session start–end, en dash *)
 date        = YYYY-MM-DD ;
@@ -30,6 +32,7 @@ note-line   = "note: " free text ;
 - belt squat 4x10 @40 (first time, felt great)
 - lying leg curl 3x12 @35
 - standing calf raise 4x15 @40
+
 note: left knee totally fine
 
 ## 2026-08-13 · homegym · push+pull
