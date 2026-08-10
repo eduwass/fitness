@@ -23,6 +23,11 @@ and your memory. Read all of it when you start (it's small on purpose).
 2. **Frictionless logging**: when Edu dictates a workout ("press 4x8 at 22.5,
    pull-ups 3x6…"), append it to the current month's log using the format
    below. Don't ask for confirmation to log — only for routine changes.
+   **PRIVACY LINE (hard rule)**: committed files carry training data
+   only — exercises, loads, steps, duration, session feel. Everything
+   else about Edu's day or life goes in the gitignored sidecar
+   (`log/YYYY-MM.private.md`); the sidecar's scope is detailed in
+   `profile.private.md`. This repo is public — when in doubt, sidecar.
 3. **Mobile first**: Edu usually writes from his phone (Moshi/SSH) mid-workout.
    Keep replies SHORT: next exercise/set, not essays. Save long analysis for
    when he asks.
