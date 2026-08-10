@@ -23,7 +23,10 @@ weather permitting.
 ### Pending purchases (decide after a month of real routine)
 - Dualbell adapters (dumbbell→barbell plate) + ALLINLIFE 220 cm Ø25 mm
   detachable bar + J-hooks for the tower → would enable home barbell work
-  (80 kg max). Email sent to Dualbell to confirm Nüobell S 240 compatibility.
+  (80 kg max). Compatibility CONFIRMED by Dualbell founder (Aug 2026):
+  "several customers using Dualbells with Nuobells, should fit very
+  nicely"; nylon 66 safe even if clamp touches the housing; rated 125 lb
+  per dumbbell. S 240-specific double-check pending (link sent).
 - Dip belt for weighted pull-ups/dips.
 
 ## 🏢 Eden Gimnàs (Andorra) — commercial gym
