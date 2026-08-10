@@ -1,4 +1,4 @@
-# Log format spec (v1)
+# Log format spec (v1.1)
 
 Every entry in `log/YYYY-MM.md` follows this grammar — strictly. The coach
 writes all entries, so conformance is by construction, not discipline. This
@@ -9,7 +9,8 @@ charts, exports) without adopting a heavier standard.
 
 ```
 entry       = header , { exercise-line } , [ note-line ] ;
-header      = "## " date " · " context " · " focus ;
+header      = "## " date " · " context " · " focus [ " · " timerange ] ;
+timerange   = HH:MM "–" HH:MM ;      (* session start–end, en dash *)
 date        = YYYY-MM-DD ;
 context     = "homegym" | "eden" | "park" | "travel" | "run" ;
 focus       = free text (e.g. "legs", "push+pull", "5k easy") ;
@@ -44,7 +45,7 @@ note: left knee totally fine
 ## Parsing contract
 
 - One entry per `## ` header; one exercise per `- ` line; regexes:
-  - header: `^## (\d{4}-\d{2}-\d{2}) · (\w+) · (.+)$`
+  - header: `^## (\d{4}-\d{2}-\d{2}) · (\w+) · (.+?)(?: · (\d{2}:\d{2}–\d{2}:\d{2}))?$`
   - exercise: `^- (.+?) (\d+)x([\d-]+) @(\S+)(?: \((.+)\))?$`
   - note: `^note: (.+)$`
 - Progression notation inside an entry (e.g. `@30→40`) records a
@@ -53,6 +54,8 @@ note: left knee totally fine
   free-text slots — never invent new line syntax.
 
 Format is versioned: breaking changes bump this file's version and get a
-migration note. (Related prior art: [Traindown](https://traindown.com),
+migration note. v1→v1.1: optional `· HH:MM–HH:MM` header suffix (additive,
+no migration needed). Conformance is enforced by `scripts/lint-log.ts`
+via the repo's pre-commit hook. (Related prior art: [Traindown](https://traindown.com),
 [Fitdown](https://github.com/datavis-tech/fitdown) — this format is
 Fitdown-adjacent but optimized for LLM-written, human-dictated entries.)
