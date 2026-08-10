@@ -7,8 +7,9 @@ guilt.
 
 ## Phase 0 (now): get the ball rolling
 
-The only goal is the streak: consistent sessions, log filling up, system
-refined through use. No performance targets until the base is back.
+The streak is the prize. Process goals (session counts, streak lengths)
+are Phase 0's native currency; performance targets stay locked until the
+base is back.
 
 **Exit criteria** (coach proposes goal-setting when these hit):
 - ~4-6 weeks of consistent training logged
@@ -17,7 +18,20 @@ refined through use. No performance targets until the base is back.
 
 ## Active goals
 
-_None yet — unlocked after Phase 0._
+### 🎯 Goal #1: First 5 sessions
+- Why: prove the system works end to end — coach, log, commits, all of it.
+  The ball, rolling.
+- Set: 2026-08-10 · Any context counts (homegym/eden/park/gtg/run).
+- Milestones:
+  - [ ] Session 1 — the hardest one
+  - [ ] Session 2
+  - [ ] Session 3 — one full floor-week if within 7 days of #1
+  - [ ] Session 4
+  - [ ] Session 5 ✅ → trophy room, coach proposes Goal #2
+- On completion: coach celebrates, then proposes 2-3 candidate next goals
+  (mix of process and first performance targets based on what the log
+  shows) and asks what Edu wants to chase. The ladder never has a gap:
+  a goal completing always births the next conversation.
 
 <!-- Template:
 ### 🎯 Bench 80kg × 10
