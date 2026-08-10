@@ -46,6 +46,16 @@ benches, core on the ground. Bands + steel quick links travel in a small
 bag and turn any bar into a pulley station. Counts fully toward the floor.
 Elbow flag: skip parallel-bar dips for now — pushup variations instead.
 
+### MICRO-DOSING — greasing the groove (out-of-session homework)
+When a goal benefits from frequency (pull-ups are the canonical case), the
+coach may assign day-spread micro-sets: e.g. "8 easy pull-ups every ~3-4h,
+4-6 times today". Rules: always submaximal (~50-60% of max, NEVER to
+failure — the groove is greased fresh, not fried), only on the coach's
+call when it serves an active goal, and WFH days only. Logs as one line:
+`## date · homegym · gtg` → `- pull-ups 5x8 @bw (spread through day)`.
+Practical note: GtG only works if the tower is standing — assembled tower
+= micro-dosing available; folded week = no GtG assignments.
+
 ### TRAVEL MODE
 Announce a trip → coach preps a plan for what's available (hotel gym /
 calisthenics park / bands in the suitcase — pack list included). Bodyweight
