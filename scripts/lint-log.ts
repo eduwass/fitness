@@ -14,6 +14,13 @@ const HEADER =
 const EXERCISE = /^- .+? \d+x[\d-]+ @\S+( \(.+\))?$/;
 const NOTE = /^> note: .+$/;
 
+const registry = new Set(
+  (existsSync("exercises.md") ? readFileSync("exercises.md", "utf8") : "")
+    .split("\n")
+    .map((l) => /^- (.+?) · /.exec(l)?.[1])
+    .filter(Boolean),
+);
+
 const all = process.argv.includes("--all");
 const staged = all
   ? (await $`git ls-files`.text()).trim().split("\n")
@@ -38,8 +45,12 @@ for (const f of staged.filter(
     const where = `${f}:${i + 1}`;
     if (line.startsWith("## ") && !HEADER.test(line))
       fail(`${where} bad header (see FORMAT.md): ${line}`);
-    else if (line.startsWith("- ") && !EXERCISE.test(line))
-      fail(`${where} bad exercise line (name SxR @load): ${line}`);
+    else if (line.startsWith("- ")) {
+      const m = /^- (.+?) \d+x[\d-]+ @\S+( \(.+\))?$/.exec(line);
+      if (!m) fail(`${where} bad exercise line (name SxR @load): ${line}`);
+      else if (registry.size && !registry.has(m[1]))
+        fail(`${where} "${m[1]}" not in exercises.md — add it there (canonical names only)`);
+    }
     else if (line.startsWith("> note:")) {
       if (!NOTE.test(line)) fail(`${where} bad note line: ${line}`);
       if (i > 0 && lines[i - 1].trim() !== "")

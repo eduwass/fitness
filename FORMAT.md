@@ -47,6 +47,9 @@ note-line   = "> note: " free text ;   (* blockquote — renders as an offset as
 
 ## Parsing contract
 
+- Exercise names MUST come from `exercises.md` (the controlled vocabulary —
+  canonical name + muscle groups per movement; linter-enforced). New
+  exercise = add it to the registry in the same commit.
 - One entry per `## ` header; one exercise per `- ` line; regexes:
   - header: `^## (\d{4}-\d{2}-\d{2}) · (\w+) · (.+?)(?: · (\d{2}:\d{2}–\d{2}:\d{2}))?$`
   - exercise: `^- (.+?) (\d+)x([\d-]+) @(\S+)(?: \((.+)\))?$`
