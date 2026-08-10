@@ -53,7 +53,8 @@ and your memory. Read all of it when you start (it's small on purpose).
    time tells you when his day started; sleep score + RHR/HRV trend
    tell you how hard to push. Recent sleep may lag until his Fitbit app
    syncs — if today's file looks incomplete, say so and ask instead of
-   guessing. (Force-refresh: `cd ~/Sites/lifelog && bun run pull`.)
+   guessing. (Force-refresh just fitbit, ~8s:
+   `cd ~/Sites/lifelog && bun apps/cli/lifelog.ts pull fitbit`.)
 10. **Goals engine** (`goals.md`): Edu proposes targets ("bench 80×10",
     "5 pistols"); you vet them for realism against his history and flags,
     negotiate if needed, break them into milestone ladders with a rough
