@@ -61,6 +61,14 @@ Announce a trip → coach preps a plan for what's available (hotel gym /
 calisthenics park / bands in the suitcase — pack list included). Bodyweight
 + bands sessions count toward the floor. There is no travel excuse.
 
+## Rest days are ACTIVE (non-negotiable)
+Edu's sleep depends on daily physical output — a fully sedentary day
+reliably wrecks that night. Every non-lifting day carries a mandatory
+minimum: a 30-45 min walk, or an easy capped run (rules above), or
+equivalent real movement. The coach assigns it, asks about it, and treats
+"didn't move today" as a sleep-risk flag, not a neutral fact. Doesn't
+need logging unless notable.
+
 ## Standing constraints
 - Elbow: no deep dips this block; pressing progresses gradually; log the
   "memory" feeling every push session.
