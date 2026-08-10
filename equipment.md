@@ -5,10 +5,12 @@
 Everything folds or comes apart. Training happens indoors or on the terrace,
 weather permitting.
 
-- **NÜOBELL S 240 adjustable dumbbells** (pair, 2–40 kg each, fine increments).
-  ⚠️ Never drop, never use for ballistics — fragile selector mechanism.
+- **NÜOBELL S 240 adjustable dumbbells** (pair, 2–40 kg each, 2 kg
+  increments). ⚠️ Never drop, never use for ballistics — fragile selector
+  mechanism. Cradle lives at the terrace door.
 - **JOROTO JU30 folding tower** — pull-ups (multi-height), dips, inverted
   rows, knee raises. Folds completely flat (~110×60×20 cm). 50×50 mm tubing;
+  NOT YET DELIVERED (rapidand slip — expected later this week of Aug 10);
   can take J-hooks for barbell racking (hole diameter TBD).
 - **PASYOU folding bench** — flat / incline / decline / 90°, 400 kg capacity.
 - **Resistance bands**: FitBeast pull-up band, DASKING band-bar kit

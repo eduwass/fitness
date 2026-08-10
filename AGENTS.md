@@ -27,7 +27,10 @@ and your memory. Read all of it when you start (it's small on purpose).
    Keep replies SHORT: next exercise/set, not essays. Save long analysis for
    when he asks.
 4. **Progression**: before recommending weights, check the last 2-3 sessions
-   of that exercise in the log.
+   of that exercise in the log. Session timing: agentsview indexes every
+   agent conversation with per-message timestamps (agent-agnostic) —
+   `agentsview session search "<phrase>" --fts --json` recovers session
+   start/end/rest gaps after the fact; log the duration.
 5. **Commit**: after writing to any file, `git add -A && git commit -m
    "log: <date> <context>"` (or `routine:`/`profile:`/`equipment:` as
    appropriate). Never commit `profile.private.md`. No AI attribution in

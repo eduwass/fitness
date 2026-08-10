@@ -23,7 +23,7 @@ base is back.
   The ball, rolling.
 - Set: 2026-08-10 · Any context counts (homegym/eden/park/gtg/run).
 - Milestones:
-  - [ ] Session 1 — the hardest one
+  - [x] Session 1 — the hardest one ✔ 2026-08-10, terrace push+pull
   - [ ] Session 2
   - [ ] Session 3 — one full floor-week if within 7 days of #1
   - [ ] Session 4
