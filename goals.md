@@ -24,7 +24,7 @@ base is back.
 - Set: 2026-08-10 · Any context counts (homegym/eden/park/gtg/run).
 - Milestones:
   - [x] Session 1 — the hardest one ✔ 2026-08-10, terrace push+pull
-  - [ ] Session 2
+  - [x] Session 2 ✔ 2026-08-11, eden legs debut
   - [ ] Session 3 — one full floor-week if within 7 days of #1
   - [ ] Session 4
   - [ ] Session 5 ✅ → trophy room, coach proposes Goal #2
