@@ -10,7 +10,7 @@ weather permitting.
   mechanism. Cradle lives at the terrace door.
 - **JOROTO JU30 folding tower** — pull-ups (multi-height), dips, inverted
   rows, knee raises. Folds completely flat (~110×60×20 cm). 50×50 mm tubing;
-  NOT YET DELIVERED (rapidand slip — expected later this week of Aug 10);
+  Delivered Aug 11 (box destroyed in transit, cosmetic chips only — works fine);
   can take J-hooks for barbell racking (hole diameter TBD).
 - **PASYOU folding bench** — flat / incline / decline / 90°, 400 kg capacity.
 - **Resistance bands**: FitBeast pull-up band, DASKING band-bar kit
