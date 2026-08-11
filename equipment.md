@@ -38,13 +38,12 @@ Titanium Strength + ATX equipment, all new (catalogued Aug 2026).
 ### Legs (the gym's strong suit)
 - 45° hack squat / reverse leg press combo (plate loaded)
 - Pendulum squat
-- Lever belt squat (plate loaded)
+- ATX belt squat (compact floor unit, plate loaded — his favorite)
 - Hip thrust machine (plate loaded)
 - Leg extension (selectorized)
 - Lying leg curl (selectorized) + seated leg curl (selectorized)
 - Hip abduction/adduction combo (selectorized)
 - ATX standing calf raise (lever, plate loaded)
-- ATX tibia trainer (plate loaded)
 
 ### Free weights
 - Half rack with J-hooks, olympic bar and multi-grip pull-up bar
