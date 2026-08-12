@@ -53,3 +53,7 @@ Adding an exercise = add a line here in the same commit that first logs it.
 - walk · cardio
 - plank · core
 - knee raises · core, hip-flexors
+- dead hang · forearms, shoulders
+- scapular pull · upper-back, shoulders
+- step-ups · quads, glutes
+- deep squat hold · mobility, hips
