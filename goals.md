@@ -25,7 +25,7 @@ base is back.
 - Milestones:
   - [x] Session 1 — the hardest one ✔ 2026-08-10, terrace push+pull
   - [x] Session 2 ✔ 2026-08-11, eden legs debut
-  - [ ] Session 3 — one full floor-week if within 7 days of #1
+  - [x] Session 3 ✔ 2026-08-13, tower debut — full floor-week in 4 days 🏅
   - [ ] Session 4
   - [ ] Session 5 ✅ → trophy room, coach proposes Goal #2
 - On completion: coach celebrates, then proposes 2-3 candidate next goals
