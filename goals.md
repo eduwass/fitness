@@ -26,7 +26,7 @@ base is back.
   - [x] Session 1 — the hardest one ✔ 2026-08-10, terrace push+pull
   - [x] Session 2 ✔ 2026-08-11, eden legs debut
   - [x] Session 3 ✔ 2026-08-13, tower debut — full floor-week in 4 days 🏅
-  - [ ] Session 4
+  - [x] Session 4 ✔ 2026-08-16, eden upper machines
   - [ ] Session 5 ✅ → trophy room, coach proposes Goal #2
 - On completion: coach celebrates, then proposes 2-3 candidate next goals
   (mix of process and first performance targets based on what the log

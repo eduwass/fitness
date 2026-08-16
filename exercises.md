@@ -57,3 +57,5 @@ Adding an exercise = add a line here in the same commit that first logs it.
 - scapular pull · upper-back, shoulders
 - step-ups · quads, glutes
 - deep squat hold · mobility, hips
+- rear delt fly · rear-delts, upper-back
+- pec deck · chest, front-delts
