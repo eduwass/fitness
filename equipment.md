@@ -57,8 +57,7 @@ Titanium Strength + ATX equipment, all new (catalogued Aug 2026).
 - Pec deck + rear delt fly (dual, selectorized)
 - Dual cable tower: lat pulldown, seated low row, adjustable pulley
   + accessory wall (V-handle, ropes, bars)
-- Chest-supported iso-lateral row (lever, plate loaded)
-- Standing iso-lateral low row / shrug (lever, plate loaded)
+- Chest-supported standing row (lean-in chest pad, T-bar style lever, plate loaded — the only row machine)
 - Pull-up/dip/captain's chair tower
 
 ### Cardio / conditioning
