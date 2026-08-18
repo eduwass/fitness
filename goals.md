@@ -27,7 +27,7 @@ base is back.
   - [x] Session 2 ✔ 2026-08-11, eden legs debut
   - [x] Session 3 ✔ 2026-08-13, tower debut — full floor-week in 4 days 🏅
   - [x] Session 4 ✔ 2026-08-16, eden upper machines
-  - [ ] Session 5 ✅ → trophy room, coach proposes Goal #2
+  - [x] Session 5 ✔ 2026-08-18, homegym finale 🏆
 - On completion: coach celebrates, then proposes 2-3 candidate next goals
   (mix of process and first performance targets based on what the log
   shows) and asks what Edu wants to chase. The ladder never has a gap:
@@ -55,4 +55,10 @@ Ideas mentioned in passing land here so they're not lost — and not active:
 
 ## Trophy room 🏆
 
-_Achieved goals move here, with date and the log entry that sealed it._
+### 🏆 First 5 sessions — completed 2026-08-18 (11 days)
+Five sessions across three contexts (2× homegym, 2× eden, 1 more homegym),
+plus a park day and 20k-step "rest" days that didn't even count. Survived: one rough
+weekend, one deploy all-nighter, one mangled delivery, one shoulder
+pinch (stopped instantly). Pull-up baseline set: 7.
+Sealed by: `log/2026-08.md` → 2026-08-18 session.
+_Achieved goals live here, with date and the log entry that sealed it._
