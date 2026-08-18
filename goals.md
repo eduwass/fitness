@@ -18,6 +18,28 @@ base is back.
 
 ## Active goals
 
+### 🎯 Goal #2a: 10 clean pull-ups
+- Why: baseline 7 (2026-08-13) eleven days into the comeback, volume
+  climbing fast — ride the steep part of the curve. Waypoint to 15.
+- Set: 2026-08-19 · Test every ~2 weeks on a fresh day, clean reps only.
+- Milestones:
+  - [ ] 8 clean
+  - [ ] 9 clean
+  - [ ] 10 clean ✅ → trophy room
+- Support: weekly pull-up volume days + GtG micro-dosing NOW ACTIVE
+  (tower is standing; easy sets of 3-4 spread through WFH days, coach
+  assigns per routine.md rules).
+
+### 🎯 Goal #2b: 9 sessions before the trip
+- Why: Goal #1 proved a block; this proves a rhythm — the fragile part.
+- Set: 2026-08-19 · 3 sessions/week × 3 weeks, deadline = gf-family trip
+  (first week of Sept). Any context counts.
+- Milestones:
+  - [ ] Week 1: 3 sessions (by Aug 24)
+  - [ ] Week 2: 3 sessions (by Aug 31)
+  - [ ] Week 3 + trip start: 3 sessions, travel mode's first live test ✅
+- On completion: both goals reviewed, next menu proposed.
+
 ### 🎯 Goal #1: First 5 sessions
 - Why: prove the system works end to end — coach, log, commits, all of it.
   The ball, rolling.
