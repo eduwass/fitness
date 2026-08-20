@@ -35,7 +35,7 @@ base is back.
 - Set: 2026-08-19 · 3 sessions/week × 3 weeks, deadline = gf-family trip
   (first week of Sept). Any context counts.
 - Milestones:
-  - [ ] Week 1: 3 sessions (by Aug 24)
+  - [ ] Week 1: 3 sessions (by Aug 24) — 2/3 done (Aug 18, Aug 20)
   - [ ] Week 2: 3 sessions (by Aug 31)
   - [ ] Week 3 + trip start: 3 sessions, travel mode's first live test ✅
 - On completion: both goals reviewed, next menu proposed.
